@@ -1,0 +1,17 @@
+C:\Users\mkaraca\source\repos\Subscription\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\mkaraca\source\repos\Subscription\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\mkaraca\source\repos\Subscription\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+C:\Users\mkaraca\source\repos\Subscription\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\mkaraca\source\repos\Subscription\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\mkaraca\source\repos\Subscription\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\mkaraca\source\repos\Subscription\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\mkaraca\source\repos\Subscription\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkaraca\source\repos\Subscription\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\mkaraca\source\repos\Subscription\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\mkaraca\source\repos\Subscription\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mkaraca\source\repos\Subscription\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\mkaraca\source\repos\Subscription\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\mkaraca\source\repos\Subscription\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\mkaraca\source\repos\Subscription\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\mkaraca\source\repos\Subscription\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\mkaraca\source\repos\Subscription\DataAccess\bin\Debug\net6.0\Core.pdb

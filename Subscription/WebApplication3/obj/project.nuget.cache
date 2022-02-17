@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "l4Qd7YTS+5m1uqHqCb/abNx6W8WTjnp6VezK51Ph2sGO0O/XgqPbesszWew5AaaLizn7azeWpVC1CaoBHST7Ow==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\mkaraca\\source\\repos\\Subscription\\WebApplication3\\WebApplication3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Business is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project Business supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Business",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
